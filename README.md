@@ -11,4 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br>
 3 - `npm start`
 
+<br>
+
+then you can see the project in this address : http://localhost:3000/
 
