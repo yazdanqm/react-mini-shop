@@ -5,10 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # for start this project
 
-1 - ### `npm install`
+1 - `npm install`
 <br>
-2 - ### `json-server --watch db.json --port 5001`
+2 - `json-server --watch db.json --port 5001`
 <br>
-3 - ### `npm start`
+3 - `npm start`
 
 
